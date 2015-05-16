@@ -42,18 +42,7 @@
 											<li><a href="scalade.php">SCALADE - KHARADI</a></li>
 											<li><a href="unitypark.php">UNITY PARK - KONDHWA</a></li>
 										</ul>
-<!--
-										<ul style="display: none;" class="dropdown-menu sub-menu-level1 bold">
-											<li class="dropdown"><a href="javascript:void()">Residential</a>
-												<ul style="display: none;" class="dropdown-menu sub-menu-level1 bold">
-													<li><a href="javascript:void()">Ongoing</a></li>
-													<li><a href="javascript:void()">Upcoming</a></li>
-													<li><a href="javascript:void()">Completed</a></li>
-												</ul>
-											</li>
-											<li><a href="javascript:void()">Commercial</a></li>
-										</ul>
--->
+
 									</li>
 									<li class="dropdown"><a href="javascript:void(0)">Ahmedabad</a>
 										<ul style="display: none;" class="dropdown-menu sub-menu-level1 bold">
